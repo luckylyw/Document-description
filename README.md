@@ -181,7 +181,7 @@ file                               format  type  num_seqs     sum_len  min_len  
 corrected_reads.fastq  FASTA   DNA     32,298  91,158,476    2,000  2,822.4    9,948
 ```
 ## 2.Experimental data
-**ssh://luoluo:luoluo123@202.197.66.217:5009**<br>
+**ssh://luoluo:xxxxxxxxx@202.197.66.217:5009**<br>
 ### 2.1 LCAT-self error correction tool
 four RNA long read datasets (/home/luoluo/LCAT_data/)	<br>
 * mouse_nanopore <br>
